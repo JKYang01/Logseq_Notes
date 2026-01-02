@@ -1,0 +1,14 @@
+## 🏛️ Mission Control
+	- ### 📖 Reading & Humanities
+		- [[Road to Serfdom]]
+		- [[AI News Reading]]
+	- ### 🤖 Technical Learning
+		- [[Machine Learning Master Project]]
+		- {{query (and [[learning-log]] #card)}}
+		- [[Software Architecture]]
+	- ### 💻 Daily Work
+		- [[CodeCraft Project]]
+		- [[Github_Opensource]]
+	- **🐍 DSA Grind**
+	- {{query (and [[dsa-practice]] #card)}}
+-
